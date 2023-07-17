@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# In this application I have cloned ChatGPT using ReactJS on the frontend with the html and CSS.
+# I have built this application on top of Node, JavaScript and Express. 
+# This application will let you choose the desired models for the result, which can result in better output for the user inputs. 
+# Moreover, this web app is fetching the response with the OpenAI API key.
+
+
 
 ## Available Scripts
 
